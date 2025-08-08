@@ -67,7 +67,7 @@ You must clone the workshop repository to your local machine to access the works
 4. Navigate into the cloned repository:
 
    ```bash
-   cd UnlockThePowerOfMessaingPatterns
+   cd UnlockThePowerOfMessaingPatterns-BeerCityCode2025
    ```
 
 5. Verify that you can list the lab folders (e.g., `Lab01_PubSub`, `Lab02_RequestResponse`, etc.).
