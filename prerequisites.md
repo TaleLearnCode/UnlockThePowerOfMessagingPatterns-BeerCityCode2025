@@ -61,7 +61,7 @@ You must clone the workshop repository to your local machine to access the works
 3. Run the following command:
 
    ```bash
-   git clone https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns.git
+   git clone https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns-BeerCityCode2025
    ```
 
 4. Navigate into the cloned repository:
